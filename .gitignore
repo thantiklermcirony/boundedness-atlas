@@ -1,0 +1,7 @@
+.env*
+!.env.example
+.openai/execution-profile.json
+prepare_content.py
+__pycache__/
+*.zip
+*.log
