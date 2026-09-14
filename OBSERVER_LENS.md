@@ -78,7 +78,7 @@ The lawful compression is the predictive equivalence class of histories. If equa
 
 For a binary hypothesis, let $p\in(0,1)$ and $s=2p-1$. Its rapidity is **half** the log odds:
 
-$$\lambda=\operatorname{artanh}(s)=\tfrac12\log\frac{p}{1-p}.$$
+$$\lambda=\mathrm{artanh}(s)=\tfrac12\log\frac{p}{1-p}.$$
 
 For a positive finite likelihood ratio $L$, Bayes gives
 
