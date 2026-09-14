@@ -14,6 +14,12 @@ Daniel John Murray’s research programme, presented by connected ideas: bounded
 
 The site distinguishes conditional mathematics, simulations, secondary analyses and prospective hypotheses. It does not certify global novelty, independent proof verification or universal predictive accuracy. Historical claims and corrections remain visible.
 
+## Current programme direction
+
+**[The observer in the world — programme map, present focus and how it evolves](PROGRAMME_DIRECTION.md)**
+
+We are connecting observation, retained state, temporal operations, bounded resources and viable action into one adaptive observer–environment loop. The next research question asks which intervention can reveal a hidden difference between systems with the same present reading. Active investigations run locally; the Atlas is the public synthesis. The earlier hosted Observatory remains owner-only.
+
 ## Rebuild
 
 Python 3, standard library only:
@@ -30,3 +36,4 @@ The previous [Empirical Observatory](https://github.com/thantiklermcirony/empiri
 Artwork: three original AI-generated botanical illustrations. Exact prompts are recorded in `IMAGE_PROMPTS.json`. They are creative illustrations, not scientific data.
 
 No new blanket license is applied to the author’s manuscripts or pre-existing work. Consult their individual source terms; the Atlas grants no rights over cited third-party material.
+
