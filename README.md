@@ -1,6 +1,10 @@
 # The Boundedness Atlas
 
-[![Enter the Boundedness Atlas](dist/assets/entrance.jpg)](https://boundedness-atlas.madmanmuzza.chatgpt.site)
+[![The observer in the world — open the source and assumptions for every relationship](observer-world-loop.svg)](HONESTY.md)
+
+### [Honesty — inspect every relationship](HONESTY.md)
+
+[Full-size diagram](observer-world-loop.svg) · [Relationship ledger](observer-map.json) · [Programme direction](PROGRAMME_DIRECTION.md)
 
 ## [Enter the Atlas →](https://boundedness-atlas.madmanmuzza.chatgpt.site)
 
@@ -18,7 +22,9 @@ The site distinguishes conditional mathematics, simulations, secondary analyses 
 
 **[The observer in the world — programme map, present focus and how it evolves](PROGRAMME_DIRECTION.md)**
 
-We are connecting observation, retained state, temporal operations, bounded resources and viable action into one adaptive observer–environment loop. The next research question asks which intervention can reveal a hidden difference between systems with the same present reading. Active investigations run locally; the Atlas is the public synthesis. The earlier hosted Observatory remains owner-only.
+The centrepiece now separates identifiability, predictive sufficiency and attainable action value. A local finite-model observer exercises sensing, retained uncertainty, prediction and costed intervention. The next biological bridge must show that a feasible measurement distinguishes states with different useful actions before the opportunity to act closes. Active investigations run locally; the Atlas is the public synthesis. The earlier hosted Observatory remains owner-only.
+
+The diagram and [Honesty page](HONESTY.md) are generated together from `observer-map.json` and `observer-sources.json` by `python build_observer_map.py`. This regenerates the presentation; it does not certify the underlying science or publish an autonomous research agent.
 
 ## Rebuild
 
@@ -36,4 +42,5 @@ The previous [Empirical Observatory](https://github.com/thantiklermcirony/empiri
 Artwork: three original AI-generated botanical illustrations. Exact prompts are recorded in `IMAGE_PROMPTS.json`. They are creative illustrations, not scientific data.
 
 No new blanket license is applied to the author’s manuscripts or pre-existing work. Consult their individual source terms; the Atlas grants no rights over cited third-party material.
+
 

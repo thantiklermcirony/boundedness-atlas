@@ -1,0 +1,55 @@
+{
+  "current-01": {
+    "title": "Epistemic Type Safety for Generative AI: Witnessed Assertion, Fail-Closed Kernels, and Why the Model Need Not Be the World",
+    "url": "https://boundedness-atlas.madmanmuzza.chatgpt.site/papers/current-01/",
+    "location": "Retained manuscript abstract, PDF page 1; closing PDF pages 15",
+    "manuscript_sha256": "1336b2183b6851b9e61fb7fba496392eb3249b05b7f7e9acf2ebc01217a87c51",
+    "scope": "Witnessed support is channel-relative; trusted verifier/renderer/source binding required; targeted mutation tests do not establish arbitrary truth.",
+    "notice": "Programme manuscript source; not independent empirical verification or certified online SSRN parity."
+  },
+  "current-05": {
+    "title": "The Temporal Architecture of Living Nature: Predictive state, robust viability, and the recursive construction of biological futures",
+    "url": "https://boundedness-atlas.madmanmuzza.chatgpt.site/papers/current-05/",
+    "location": "Retained manuscript abstract, PDF page 1; closing PDF pages 22",
+    "manuscript_sha256": "7203996c5baf71f976774f27b8ff82323af1b6525551fd4bfefb826e0fa12d2c",
+    "scope": "Viability belongs to physical realization; robust policy quantifiers, opposing channels and independent restoration tests remain separate.",
+    "notice": "Programme manuscript source; not independent empirical verification or certified online SSRN parity."
+  },
+  "current-06": {
+    "title": "Aczél-Family Composition in Bounded Pharmacology: Mechanism-selected generators, combination effects, and an aluminium-toxicology test",
+    "url": "https://boundedness-atlas.madmanmuzza.chatgpt.site/papers/current-06/",
+    "location": "Retained manuscript abstract, PDF page 1; closing PDF pages 8",
+    "manuscript_sha256": "4c266fca8ee569621b6ce92a59d66ac0bb1c85a929b1fecb8f5650414b15a4a0",
+    "scope": "Aczel generator has positive-scale freedom after identity normalization; Bliss/Loewe comparison is model-specific; projective metric differs from Fisher.",
+    "notice": "Programme manuscript source; not independent empirical verification or certified online SSRN parity."
+  },
+  "current-07": {
+    "title": "The Observer and the World: Predictive state, lawful forgetting, and the geometry of empirical reality",
+    "url": "https://boundedness-atlas.madmanmuzza.chatgpt.site/papers/current-07/",
+    "location": "Retained manuscript abstract, PDF page 1; closing PDF pages 21, 22",
+    "manuscript_sha256": "169909493dd906415828fe5e14d18603d46d2196ed8ff1ccc0f4d6823d3a7b8e",
+    "scope": "Scale-blind2D linear lift yields projective ratio law; point-map gate precedes finite invariant battery; hidden channel can break scalar closure.",
+    "notice": "Programme manuscript source; not independent empirical verification or certified online SSRN parity."
+  },
+  "current-10": {
+    "title": "Predictive Closure: State, action, and the experimental compression of history",
+    "url": "https://boundedness-atlas.madmanmuzza.chatgpt.site/papers/current-10/",
+    "location": "Retained manuscript abstract, PDF page 1; closing PDF pages 31",
+    "manuscript_sha256": "39ca286995c0249006fd01cc6bcd9a66efb174798edfa94f996fe41221eb0b0a",
+    "scope": "Domain and record preservation precede action algebra; commutation differs from amount calibration; rank is linear realization, not universal memory size.",
+    "notice": "Programme manuscript source; not independent empirical verification or certified online SSRN parity."
+  },
+  "current-11": {
+    "title": "From Predictive State to Viable Action: Action Sufficiency, Safe Diagnosis, and the Operational Recoverability Bound",
+    "url": "https://boundedness-atlas.madmanmuzza.chatgpt.site/papers/current-11/",
+    "location": "Retained manuscript abstract, PDF page 1; closing PDF pages 10, 11",
+    "manuscript_sha256": "1a7f5dadf6c01462c3845627cedfb63949ada7a09a48b0b7d9e36d99474108c5",
+    "scope": "Whole-code-cell action intersection yields static set cover; diagnostic time can make physical rescue operationally inaccessible.",
+    "notice": "Programme manuscript source; not independent empirical verification or certified online SSRN parity."
+  },
+  "direction": {
+    "title": "The observer in the world: programme direction",
+    "url": "https://github.com/thantiklermcirony/boundedness-atlas/blob/main/PROGRAMME_DIRECTION.md",
+    "location": "Long-term programme scope; explicitly no established theory of consciousness"
+  }
+}

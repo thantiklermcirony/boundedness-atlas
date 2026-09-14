@@ -1,32 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="480" viewBox="0 0 1100 480" role="img" aria-labelledby="title desc">
-<title id="title">The observer in one physical world</title>
-<desc id="desc">Environment sends physical signals to body and sensing. These update retained state and memory, which support prediction and action. Actions regulate the observer and change its environment.</desc>
-<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#80d9cf"/></marker></defs>
-<rect width="1100" height="480" rx="20" fill="#10202b"/>
-<text x="35" y="45" font-family="Arial,sans-serif" font-size="22" fill="#e7f4ef" font-weight="700">ONE PHYSICAL WORLD</text>
-<rect x="390" y="80" width="675" height="290" rx="18" fill="#182f3b" stroke="#65929b" stroke-width="2" stroke-dasharray="8 6"/>
-<text x="415" y="116" font-family="Arial,sans-serif" font-size="20" fill="#bddfdc">OBSERVER</text>
-<g fill="#234250" stroke="#80d9cf" stroke-width="2">
-<rect x="40" y="170" width="260" height="120" rx="12"/>
-<rect x="430" y="180" width="170" height="90" rx="12"/>
-<rect x="630" y="180" width="170" height="90" rx="12"/>
-<rect x="830" y="180" width="200" height="90" rx="12"/>
-</g>
-<g fill="#f2f6ed" font-family="Arial,sans-serif" font-size="21" text-anchor="middle">
-<text x="170" y="237">Environment</text>
-<text x="515" y="218">Body and<tspan x="515" dy="27">sensing</tspan></text>
-<text x="715" y="218">Retained state<tspan x="715" dy="27">and memory</tspan></text>
-<text x="930" y="218">Prediction<tspan x="930" dy="27">and action</tspan></text>
-</g>
-<g fill="none" stroke="#80d9cf" stroke-width="2.5" marker-end="url(#arrow)">
-<path d="M300 225H425"/>
-<path d="M600 225H626"/>
-<path d="M800 225H826"/>
-<path d="M880 270V326H515V275"/>
-<path d="M980 270V428H170V295"/>
-</g>
-<g fill="#bddfdc" font-family="Arial,sans-serif" font-size="17" text-anchor="middle">
-<text x="362" y="151">Physical<tspan x="362" dy="22">signals</tspan></text>
-<text x="700" y="352">Regulation · learning · repair</text>
-<text x="565" y="455">Actions change the environment, shaping future observations</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1560" height="1760" viewBox="0 0 1560 1760" role="img" aria-labelledby="title description">
+<title id="title">The observer in the world — the Murray Research Programme</title>
+<desc id="description">A scoped physical loop connects a system, accessible signals, retained record, estimated state, prediction, decision and action. Measurements can be selected at a cost. Identifiability, predictive sufficiency and attainable action value are separate gates. Biological self-maintenance and subjective experience remain extensions or open questions. A separate human-reviewed evidence loop revises the map. Every relationship E01 to E15 is explained with sources and limits in HONESTY.md.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071723"/><stop offset="1" stop-color="#102d35"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#b0d0d8" stroke-opacity=".04"/></pattern><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9" fill="#71d4ca"/></marker><marker id="amber" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0L9 4.5L0 9" fill="#ecc58b"/></marker></defs>
+<rect width="1560" height="1760" fill="url(#bg)"/><rect width="1560" height="1760" fill="url(#grid)"/>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#e6f1ef} .label{font-size:24px;fill:#aac6ca}.id{font-family:monospace;font-size:24px;fill:#71d4ca}.path{fill:none;stroke:#71d4ca;stroke-width:3;marker-end:url(#arrow)}.open{fill:none;stroke:#ecc58b;stroke-width:2;stroke-dasharray:7 7}</style>
+<text x="75" y="65" font-size="24" style="fill:#a5c8c9" >DANIEL JOHN MURRAY / THE MURRAY RESEARCH PROGRAMME</text>
+<text x="70" y="136" font-size="58" >THE OBSERVER IN THE WORLD</text>
+<text x="75" y="182" font-size="27" style="fill:#b9d6d4" >A part of the world, learning what to retain — and when it can act.</text>
+<rect x="50" y="226" width="1460" height="800" rx="18" fill="#0b202a" stroke="#32505a"/>
+<text x="80" y="267" font-size="22" style="fill:#a5c8c9" >ONE PHYSICAL WORLD · DECLARE THE DOMAIN, DO NOT ASSUME COMPLETENESS</text>
+<path d="M540 290H1440V913H85V607H540Z" fill="#72cdb8" fill-opacity=".035" stroke="#557e79" stroke-dasharray="6 7"/>
+<text x="565" y="308" font-size="22" style="fill:#b0d9cb" >OBSERVER DESCRIPTION</text>
+<rect x="105" y="320" width="340" height="152" rx="10" fill="#102e38" stroke="#4b737a"/>
+<text x="123" y="347" font-size="17" style="fill:#8ac6be" >SCOPED MODEL</text>
+<text x="123" y="386" font-size="31" >Physical system</text>
+<text x="123" y="423" font-size="21" style="fill:#bed0d1" >Declared states and mechanisms</text>
+<text x="123" y="452" font-size="21" style="fill:#bed0d1" >Preparation · domain · clock</text>
+<rect x="590" y="320" width="330" height="152" rx="10" fill="#102e38" stroke="#4b737a"/>
+<text x="608" y="347" font-size="17" style="fill:#8ac6be" >OBSERVATION MODEL</text>
+<text x="608" y="386" font-size="31" >Accessible signals</text>
+<text x="608" y="423" font-size="21" style="fill:#bed0d1" >A measurement is a channel</text>
+<text x="608" y="452" font-size="21" style="fill:#bed0d1" >Calibration · noise · selectivity</text>
+<rect x="1060" y="320" width="330" height="152" rx="10" fill="#102e38" stroke="#4b737a"/>
+<text x="1078" y="347" font-size="17" style="fill:#8ac6be" >ENCODED HISTORY</text>
+<text x="1078" y="386" font-size="31" >Retained record</text>
+<text x="1078" y="423" font-size="21" style="fill:#bed0d1" >What was actually observed</text>
+<text x="1078" y="452" font-size="21" style="fill:#bed0d1" >Order · time · provenance</text>
+<rect x="1060" y="680" width="330" height="152" rx="10" fill="#102e38" stroke="#4b737a"/>
+<text x="1078" y="707" font-size="17" style="fill:#8ac6be" >CONDITIONAL INFERENCE</text>
+<text x="1078" y="746" font-size="31" >Estimated state</text>
+<text x="1078" y="783" font-size="21" style="fill:#bed0d1" >Uncertainty over possible states</text>
+<text x="1078" y="812" font-size="21" style="fill:#bed0d1" >An estimate is not the world</text>
+<rect x="590" y="680" width="330" height="152" rx="10" fill="#102e38" stroke="#4b737a"/>
+<text x="608" y="707" font-size="17" style="fill:#8ac6be" >MODEL-RELATIVE VALUE</text>
+<text x="608" y="746" font-size="31" >Future + decision</text>
+<text x="608" y="783" font-size="21" style="fill:#bed0d1" >Predict a declared outcome</text>
+<text x="608" y="812" font-size="21" style="fill:#bed0d1" >Choose within the action budget</text>
+<rect x="125" y="680" width="330" height="152" rx="10" fill="#102e38" stroke="#4b737a"/>
+<text x="143" y="707" font-size="17" style="fill:#8ac6be" >AVAILABLE CONTROL</text>
+<text x="143" y="746" font-size="31" >Physical action</text>
+<text x="143" y="783" font-size="21" style="fill:#bed0d1" >Changes later conditions</text>
+<text x="143" y="812" font-size="21" style="fill:#bed0d1" >Effects need a tested mechanism</text>
+<path d="M445 388H590" class="path"/><text x="466" y="363" class="id">E01</text>
+<path d="M920 388H1060" class="path"/><text x="950" y="363" class="id">E02</text>
+<path d="M1225 472V680" class="path"/><text x="1242" y="552" class="id">E03</text>
+<path d="M1060 756H920" class="path"/><text x="952" y="736" class="id">E04</text>
+<path d="M590 756H455" class="path"/><text x="485" y="736" class="id">E05</text>
+<path d="M290 680V472" class="path"/><text x="306" y="545" class="id">E06</text>
+<path d="M755 680V472" class="path"/><text x="770" y="520" class="id">E07</text>
+<text x="320" y="577" font-size="20" style="fill:#a8c7c7" >intervene</text>
+<text x="783" y="550" font-size="21" style="fill:#a8c7c7" >choose a reading</text>
+<text x="105" y="882" font-size="24" style="fill:#ecc58b" >E09  Physical self-maintenance: a biological model still to earn.</text>
+<text x="100" y="971" font-size="25" style="fill:#71d4ca" >E08  BOUNDS + COMPOSITION</text>
+<text x="550" y="971" font-size="24" style="fill:#c2d7d8" >Conservation · resources · units · order · calibrated operations</text>
+<text x="78" y="1084" font-size="25" style="fill:#b0d0d0" >THREE TESTS BETWEEN A PLAUSIBLE PICTURE AND A USEFUL MODEL</text>
+<path d="M80 1114H500" stroke="#71d4ca" stroke-width="3"/>
+<text x="80" y="1158" font-size="24" style="fill:#71d4ca" >E13</text>
+<text x="80" y="1197" font-size="23" >CAN WE TELL THEM APART?</text>
+<text x="80" y="1235" font-size="24" style="fill:#b4ced0" >Distinct states can produce</text>
+<text x="80" y="1266" font-size="24" style="fill:#b4ced0" >the same accessible record.</text>
+<path d="M570 1114H990" stroke="#71d4ca" stroke-width="3"/>
+<text x="570" y="1158" font-size="24" style="fill:#71d4ca" >E14</text>
+<text x="570" y="1197" font-size="23" >DOES THE FUTURE DIFFER?</text>
+<text x="570" y="1235" font-size="24" style="fill:#b4ced0" >Retain a distinction when it</text>
+<text x="570" y="1266" font-size="24" style="fill:#b4ced0" >changes a declared prediction.</text>
+<path d="M1060 1114H1480" stroke="#71d4ca" stroke-width="3"/>
+<text x="1060" y="1158" font-size="24" style="fill:#71d4ca" >E15</text>
+<text x="1060" y="1197" font-size="23" >CAN AN ACTION HELP?</text>
+<text x="1060" y="1235" font-size="24" style="fill:#b4ced0" >Perfect information still has</text>
+<text x="1060" y="1266" font-size="24" style="fill:#b4ced0" >an attainable decision ceiling.</text>
+<text x="80" y="1335" font-size="25" style="fill:#b0d0d0" >A SECOND LOOP: REVISE OUR KNOWLEDGE OF THE FIRST</text>
+<rect x="80" y="1364" width="390" height="106" rx="8" fill="#152e36" stroke="#5a7578"/>
+<text x="97" y="1405" font-size="27" >Results + counterexamples</text>
+<text x="97" y="1442" font-size="22" style="fill:#b4ced0" >Retain successes and failures</text>
+<rect x="580" y="1364" width="390" height="106" rx="8" fill="#152e36" stroke="#5a7578"/>
+<text x="597" y="1405" font-size="27" >Review the evidence</text>
+<text x="597" y="1442" font-size="22" style="fill:#b4ced0" >Check premises and scope</text>
+<rect x="1080" y="1364" width="390" height="106" rx="8" fill="#152e36" stroke="#5a7578"/>
+<text x="1097" y="1405" font-size="27" >Version the shared map</text>
+<text x="1097" y="1442" font-size="22" style="fill:#b4ced0" >Update affected relationships</text>
+<path d="M470 1415H580M970 1415H1080" class="path"/>
+<text x="497" y="1389" font-size="22" style="fill:#71d4ca" >E11</text>
+<text x="996" y="1389" font-size="22" style="fill:#71d4ca" >E12</text>
+<path d="M1275 1470V1494H275V1470" class="path"/>
+<text x="585" y="1489" font-size="18" style="fill:#71d4ca" >E12 · next discriminating test</text>
+<text x="80" y="1535" font-size="24" style="fill:#b4ced0" >Human-reviewed revisions · source-bound connections · no automatic promotion to scientific law</text>
+<path d="M80 1558H1480" stroke="#3b5a60"/>
+<text x="80" y="1594" font-size="25" style="fill:#ecc58b" >E10  SUBJECTIVE EXPERIENCE REMAINS AN OPEN QUESTION</text>
+<text x="80" y="1635" font-size="25" style="fill:#c3cece" >No loop shape, simulation or associative algebra establishes consciousness.</text>
+<text x="80" y="1698" font-size="23" style="fill:#71d4ca" >EVERY E-NUMBER → HONESTY: DERIVATION · SOURCE · ASSUMPTIONS · FAILURE</text>
+<text x="80" y="1737" font-size="20" style="fill:#9cbdc0" >Version 2026-09-14-r2  /  Conceptual research map; current implementation is a local finite-model prototype.</text>
+</svg>

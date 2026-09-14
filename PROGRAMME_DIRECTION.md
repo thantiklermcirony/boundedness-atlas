@@ -11,7 +11,9 @@ The programme begins with boundedness and develops through observation, predicti
 
 ## One physical loop
 
-![The observer within one physical world: sensing, retained state, action and feedback.](observer-world-loop.svg)
+[![The observer within one physical world: sensing, retained state, action and feedback.](observer-world-loop.svg)](HONESTY.md)
+
+**[Honesty — derivations, source passages, assumptions and failure tests for every numbered relationship](HONESTY.md)**
 
 This is the organising model. Each connection requires a scoped mechanism, observation, mathematical description and test. The observer's physical condition, its own internal record, and our scientific estimate are distinct.
 
@@ -32,11 +34,11 @@ The Atlas retains 41 manuscript records, including earlier versions. Record coun
 
 ## Current research focus
 
-**Build one complete adaptive observer–environment loop using the instruments already developed.**
+**Develop the functioning local observer model into a biologically grounded information-and-action loop.**
 
 The intended sequence is: observe; predict; choose a feasible measurement or action; compare its outcome; identify a missing distinction; propose a revised state; validate the revision; retain or reject it.
 
-The next research question is: **when two systems have the same present reading, which intervention reveals a hidden difference that matters for their future?** The initial work uses declared enzyme models, followed by a separate biological-data and calibration gate. Recovering a mechanism supplied to a simulation is a test of the instrument, not discovery of that mechanism in nature.
+The current local prototype now performs noisy sensing, joint inference over mechanism and calibration, prediction and costed terminal action. Its next bridge asks: **can a feasible measurement reveal a distinction that changes a useful action while that action is still available?** Identifiability, future prediction and available decision headroom are separate tests. Before searching for a better controller, calculate whether the permitted actions leave enough possible improvement to meet the declared target. The initial work uses declared enzyme models, followed by a separate biological-data and calibration gate. Recovering a mechanism supplied to a simulation is a test of the instrument, not discovery of that mechanism in nature.
 
 One observation and a history of observations have different acquisition costs. An intervention must be compared with strong controls at the same relevant budgets. Baselines, meaningful improvement thresholds and failure conditions precede evaluation. Private experiment details and unpublished proofs are outside this public direction record.
 
@@ -74,6 +76,7 @@ Formal implication, numerical correctness, empirical support, causal evidence an
 
 | Date | Change | Evidence class |
 |---|---|---|
+| 14 September 2026 | Added the large source-indexed centrepiece, fifteen relationship records and a separate Honesty page; distinguished identifiability, predictive sufficiency and attainable action value. | Public conceptual map and conditional derivations; private experiment package not released. |
 | 14 September 2026 | Aligned the public programme around an adaptive observer–environment loop; made the next discovery question and operating locations explicit. | Direction and status update; no new scientific result published. |
 | 13 September 2026 | Published the Boundedness Atlas synthesis and focused biology entrance; preserved the older Observatory. | Public presentation with source and scope records. |
 
