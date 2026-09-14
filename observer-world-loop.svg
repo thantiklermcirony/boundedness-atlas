@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="480" viewBox="0 0 1100 480" role="img" aria-labelledby="title desc">
+<title id="title">The observer in one physical world</title>
+<desc id="desc">Environment sends physical signals to body and sensing. These update retained state and memory, which support prediction and action. Actions regulate the observer and change its environment.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#80d9cf"/></marker></defs>
+<rect width="1100" height="480" rx="20" fill="#10202b"/>
+<text x="35" y="45" font-family="Arial,sans-serif" font-size="22" fill="#e7f4ef" font-weight="700">ONE PHYSICAL WORLD</text>
+<rect x="390" y="80" width="675" height="290" rx="18" fill="#182f3b" stroke="#65929b" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="415" y="116" font-family="Arial,sans-serif" font-size="20" fill="#bddfdc">OBSERVER</text>
+<g fill="#234250" stroke="#80d9cf" stroke-width="2">
+<rect x="40" y="170" width="260" height="120" rx="12"/>
+<rect x="430" y="180" width="170" height="90" rx="12"/>
+<rect x="630" y="180" width="170" height="90" rx="12"/>
+<rect x="830" y="180" width="200" height="90" rx="12"/>
+</g>
+<g fill="#f2f6ed" font-family="Arial,sans-serif" font-size="21" text-anchor="middle">
+<text x="170" y="237">Environment</text>
+<text x="515" y="218">Body and<tspan x="515" dy="27">sensing</tspan></text>
+<text x="715" y="218">Retained state<tspan x="715" dy="27">and memory</tspan></text>
+<text x="930" y="218">Prediction<tspan x="930" dy="27">and action</tspan></text>
+</g>
+<g fill="none" stroke="#80d9cf" stroke-width="2.5" marker-end="url(#arrow)">
+<path d="M300 225H425"/>
+<path d="M600 225H626"/>
+<path d="M800 225H826"/>
+<path d="M880 270V326H515V275"/>
+<path d="M980 270V428H170V295"/>
+</g>
+<g fill="#bddfdc" font-family="Arial,sans-serif" font-size="17" text-anchor="middle">
+<text x="362" y="151">Physical<tspan x="362" dy="22">signals</tspan></text>
+<text x="700" y="352">Regulation · learning · repair</text>
+<text x="565" y="455">Actions change the environment, shaping future observations</text>
+</g></svg>

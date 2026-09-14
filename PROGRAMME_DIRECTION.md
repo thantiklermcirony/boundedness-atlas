@@ -11,22 +11,7 @@ The programme begins with boundedness and develops through observation, predicti
 
 ## One physical loop
 
-```mermaid
-flowchart LR
-    subgraph W["One physical world"]
-        E["Environment"]
-        subgraph O["Observer"]
-            B["Body and sensing"]
-            M["Retained state and memory"]
-            P["Prediction and action"]
-            B --> M
-            M --> P
-            P -->|"regulation, learning, repair"| B
-        end
-        E -->|"physical signals"| B
-        P -->|"intervention"| E
-    end
-```
+![The observer within one physical world: sensing, retained state, action and feedback.](observer-world-loop.svg)
 
 This is the organising model. Each connection requires a scoped mechanism, observation, mathematical description and test. The observer's physical condition, its own internal record, and our scientific estimate are distinct.
 
@@ -93,4 +78,3 @@ Formal implication, numerical correctness, empirical support, causal evidence an
 | 13 September 2026 | Published the Boundedness Atlas synthesis and focused biology entrance; preserved the older Observatory. | Public presentation with source and scope records. |
 
 Public updates should follow changes in reviewed understanding or usable capability. This overview can evolve as the programme learns; previous evidence and revisions remain recoverable through their source histories.
-
