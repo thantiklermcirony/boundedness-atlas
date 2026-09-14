@@ -11,7 +11,11 @@ The programme begins with boundedness and develops through observation, predicti
 
 ## One physical loop
 
-[![The observer within one physical world: sensing, retained state, action and feedback.](observer-world-loop.svg)](HONESTY.md)
+<a href="OBSERVER_LENS.md"><img src="observer-lens.jpg" alt="The evolving observer exhibit" width="480" /></a>
+
+**[Open the visual synthesis](OBSERVER_LENS.md)** · [Full technical loop](observer-world-loop.svg)
+
+The Atlas is the whole programme. This loop is its current evolving synthesis; bounded belief and physical reflection are now visible alongside prediction, biological resources and action.
 
 **[Honesty — derivations, source passages, assumptions and failure tests for every numbered relationship](HONESTY.md)**
 
